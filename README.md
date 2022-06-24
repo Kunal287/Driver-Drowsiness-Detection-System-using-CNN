@@ -1,0 +1,2 @@
+# Driver-Drowsiness-Detection-System-using-CNN
+Driver Drowsiness detection is a safety technology that can prevent accidents that are  caused by drivers who fell asleep while driving or having a fatigue. So, to prevent these  accidents we will build a system using Python, OpenCV, and Keras which will alert the  driver when he feels sleepy. This system will detect that whether person eyes are closed  or open and depending upon the result if it’s closed for few seconds the system will  alert the driver immediately by beeping the alarm.
